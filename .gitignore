@@ -26,7 +26,8 @@ sdist/
 var/
 wheels/
 *.egg-info/
-.installed.cfg
+*.pyc
+*.pyo
 *.egg
 
 # PyInstaller
