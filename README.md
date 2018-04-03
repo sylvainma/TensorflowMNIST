@@ -1,5 +1,9 @@
 # MNIST with TensorFlow
 
+## Data Venture Exercice
+
+Go to `/notebooks/simple-nn-with-tf.ipynb`
+
 ## Getting started
 
 * Create a virtualenv
